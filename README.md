@@ -27,3 +27,9 @@ To manually restart your server, use `q`, `ESC`, or `^C`
 ## Plans
 - Update UI
 
+### Dependencies
+- **blessed**: ^0.1.81
+- **blessed-contrib**: ^4.11.0
+- **chalk**: ^4.1.2
+- **keypress**: ^0.2.1
+- **robotjs**: ^0.6.0
